@@ -15,8 +15,17 @@ body{
     bottom: 68px;
     right: 28px;
 } 
+.absolute{
+    position: absolute;
+    bottom: 163px;
+    right: 29px;
+}
 .phone{
     padding-top: 32px;
+    padding-left: 120px;
+}
+.iphone{
+    padding-top: 115px;
     padding-left: 120px;
 }
 .card1{
@@ -119,4 +128,24 @@ hr{
     color: rgba(0, 0, 0, 0.514);
     font-size: 12px;
     font-weight: 450;
+}
+.face{
+    font-size: 20px;
+    color: white;
+}
+.btn-face{
+    background: #0095F6;
+    width: 93%;
+    border: none;
+    color: #fff;
+    font-size: larger;
+    font-weight: 650;
+    margin-top: 15px;
+    padding: 0;
+    border-radius: 4px;
+}
+.book{
+    color: white;
+    font-weight: 500;
+    font-size: 13px;
 }
